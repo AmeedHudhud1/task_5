@@ -1,0 +1,11 @@
+  {
+    "inputFieldSkills" : "[placeholder=\"Search by any field (e.g skills, title, etc.)\"]",
+    "firstJob" : "data-id=job0-first-CTA",
+    "companiesMenu" : "data-id=jobs-DDHeaderWrapper",
+    "experienceRangeMenu" : "data-id=DropdownHero",
+    "inputFieldLocation" : "[placeholder=\"Job location\"]",
+    "remote" : "Show remote jobs",
+    "inputFieldCompany" : "[placeholder=\"Search company\"]",
+    "searchButton" : "Search",
+    "noJobMessage" : "Ah, no jobs for these filters right now."
+  }
